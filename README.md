@@ -1,2 +1,2 @@
 # Code_Camp
-CSS Code. To do Something for new.
+CSS Code. Ready to do Something new and creative.
